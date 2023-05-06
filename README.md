@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://readme-stats-congvan1.vercel.app/api?username=CongVan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://readme-stats-congvan1.vercel.appp/api/top-langs/?username=CongVan)](https://github.com/anuraghazra/github-readme-stats)
