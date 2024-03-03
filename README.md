@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=congvan&label=Profile%20views&color=0e75b6&style=flat" alt="congvan" /> </p>
 
-- 🔭 I’m currently working on [Galaxy Education](https://ican.vn)
+- 🔭 I’m currently working on [Persona Studios]([https://ican.vn](https://personastudios.ai/))
 
-- 🌱 I’m currently learning **AWS, Remix and Prisma**
+- 🌱 I’m currently learning **GCP, Rust**
 
-- 👯 I’m looking to collaborate on **ecommerce project**
+- 👯 I’m looking to collaborate on **AI Application project**
 
-- 💬 Ask me about **React, NextJS, Typescript**
+- 💬 Ask me about **React, NextJS, Typescript, NodeJS**
 
 - 📫 How to reach me **congvan203@gmail.com**
 
